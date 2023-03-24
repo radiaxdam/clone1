@@ -1,0 +1,26 @@
+
+@font-face {
+  font-family: vorkursLight;
+  src: url("./../iivorkurs/II.Vorkurs/II\ Vorkurs\ Light.ttf");
+}
+@font-face {
+  font-family: vorkursMedium;
+  src: url("./../iivorkurs/II.Vorkurs/II\ Vorkurs\ Medium.ttf");
+}
+@font-face {
+  font-family: vorkursBold;
+  src: url("./../iivorkurs/II.Vorkurs/II\ Vorkurs\ Bold.ttf");
+}
+
+
+
+
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+  font-family: vorkursLight;
+  outline:none;
+
+}
+
